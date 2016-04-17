@@ -1,5 +1,5 @@
-TeamY.aux
-TeamY.log
-TeamY.pdf
-TeamY.synctex.gz
-TeamY.out
+*.aux
+*.log
+*.pdf
+*.synctex.gz
+*.out
